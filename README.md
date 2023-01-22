@@ -1,0 +1,1 @@
+# Data-preparation-on-Alumini-s-data-of-two-colleges-using-SQL
